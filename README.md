@@ -1,6 +1,6 @@
 # A fast domain-inspired unsupervised method to compute COVID-19 severity scores from lung CT
 
-The repository contains the implementation of the following paper. \
+The repository contains the official implementation of the following paper. \
 \
 Title - **A fast domain-inspired unsupervised method to compute COVID-19 severity scores from lung CT** \
 Authors - Samiran Dey, Bijon Kundu, Partha Basuchowdhuri, Sanjoy Kumar Saha and Tapabrata Chakraborti \
