@@ -13,7 +13,7 @@ There has been a deluge of data-driven deep learning approaches to detect COVID-
 
 
 # COVID-19 gradation data
-The folder ‘Radiologist gradations’ contains the COVID-19 gradations by our experienced radiologist for lung CT scans from the Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database - Release 1a (MIDRC-RICORD-1a) of The Cancer Imaging Archive (TCIA). There are additional comments on different exceptional patterns observed in the CT scans like cystic broncho-ectatic changes in the right lung with bilateral pleural effusion, only mosaic perfusions in both lungs, only scars in both lower lobes, only mosaic perfusions bilaterally, only nodular and streaky scars, etc. The original MIDRC-RICORD-1a data can be downloaded from the link below. \
+The folder **‘Radiologist gradations’** contains the COVID-19 gradations by our experienced radiologist for lung CT scans from the Medical Imaging Data Resource Center - RSNA International COVID-19 Open Radiology Database - Release 1a (MIDRC-RICORD-1a) of The Cancer Imaging Archive (TCIA). There are additional comments on different exceptional patterns observed in the CT scans like cystic broncho-ectatic changes in the right lung with bilateral pleural effusion, only mosaic perfusions in both lungs, only scars in both lower lobes, only mosaic perfusions bilaterally, only nodular and streaky scars, etc. The original MIDRC-RICORD-1a data can be downloaded from the link below. \
 [MIDRC-RICORD-1a](https://www.cancerimagingarchive.net/collection/midrc-ricord-1a/)
 
 
